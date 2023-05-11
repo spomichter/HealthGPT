@@ -1,0 +1,17 @@
+{"timestamp": "2023-06-29 22:28:00", "activity": "sleep", "sleep_start": "2023-06-29 22:28:00", "sleep_end": "2023-06-30 06:28:00"}
+{"timestamp": "2023-06-30 07:59:00", "activity": "Alcohol"}
+{"timestamp": "2023-06-30 08:13:00", "activity": "eye_tracking_test", "score": 80}
+{"timestamp": "2023-06-30 11:07:00", "activity": "Drugs"}
+{"timestamp": "2023-06-30 11:39:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-06-30 13:30:00", "activity": "Run"}
+{"timestamp": "2023-06-30 13:41:00", "activity": "eye_tracking_test", "score": 85}
+{"timestamp": "2023-06-30 15:27:00", "activity": "Alcohol"}
+{"timestamp": "2023-06-30 15:45:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-06-30 18:39:00", "activity": "Alcohol"}
+{"timestamp": "2023-06-30 19:11:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-06-30 21:42:00", "activity": "Alcohol"}
+{"timestamp": "2023-06-30 21:47:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-07-01 00:32:00", "activity": "Exam"}
+{"timestamp": "2023-07-01 00:37:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-07-01 02:13:00", "activity": "Exam"}
+{"timestamp": "2023-07-01 02:29:00", "activity": "eye_tracking_test", "score": 100}

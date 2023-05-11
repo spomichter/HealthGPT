@@ -1,0 +1,15 @@
+{"timestamp": "2023-07-09 23:12:00", "activity": "sleep", "sleep_start": "2023-07-09 23:12:00", "sleep_end": "2023-07-10 06:12:00"}
+{"timestamp": "2023-07-10 08:25:00", "activity": "Bike"}
+{"timestamp": "2023-07-10 09:04:00", "activity": "eye_tracking_test", "score": 30}
+{"timestamp": "2023-07-10 10:59:00", "activity": "Drugs"}
+{"timestamp": "2023-07-10 11:37:00", "activity": "eye_tracking_test", "score": 80}
+{"timestamp": "2023-07-10 14:24:00", "activity": "Exam"}
+{"timestamp": "2023-07-10 14:32:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-07-10 16:50:00", "activity": "Bike"}
+{"timestamp": "2023-07-10 17:18:00", "activity": "eye_tracking_test", "score": 80}
+{"timestamp": "2023-07-10 18:30:00", "activity": "Run"}
+{"timestamp": "2023-07-10 18:53:00", "activity": "eye_tracking_test", "score": 65}
+{"timestamp": "2023-07-10 20:02:00", "activity": "Run"}
+{"timestamp": "2023-07-10 20:08:00", "activity": "eye_tracking_test", "score": 50}
+{"timestamp": "2023-07-10 22:22:00", "activity": "Run"}
+{"timestamp": "2023-07-10 23:00:00", "activity": "eye_tracking_test", "score": 35}

@@ -1,0 +1,11 @@
+{"timestamp": "2023-07-19 21:45:00", "activity": "sleep", "sleep_start": "2023-07-19 21:45:00", "sleep_end": "2023-07-20 03:45:00"}
+{"timestamp": "2023-07-20 05:02:00", "activity": "Run"}
+{"timestamp": "2023-07-20 05:34:00", "activity": "eye_tracking_test", "score": 35}
+{"timestamp": "2023-07-20 07:15:00", "activity": "Meditation"}
+{"timestamp": "2023-07-20 07:46:00", "activity": "eye_tracking_test", "score": 25}
+{"timestamp": "2023-07-20 10:40:00", "activity": "Meditation"}
+{"timestamp": "2023-07-20 11:16:00", "activity": "eye_tracking_test", "score": 15}
+{"timestamp": "2023-07-20 12:25:00", "activity": "Bike"}
+{"timestamp": "2023-07-20 12:43:00", "activity": "eye_tracking_test", "score": 0}
+{"timestamp": "2023-07-20 14:34:00", "activity": "Meditation"}
+{"timestamp": "2023-07-20 14:47:00", "activity": "eye_tracking_test", "score": 0}

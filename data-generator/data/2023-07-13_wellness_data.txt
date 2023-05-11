@@ -1,0 +1,19 @@
+{"timestamp": "2023-07-13 22:56:00", "activity": "sleep", "sleep_start": "2023-07-13 22:56:00", "sleep_end": "2023-07-14 04:56:00"}
+{"timestamp": "2023-07-14 06:27:00", "activity": "Meditation"}
+{"timestamp": "2023-07-14 06:47:00", "activity": "eye_tracking_test", "score": 40}
+{"timestamp": "2023-07-14 09:11:00", "activity": "Alcohol"}
+{"timestamp": "2023-07-14 09:46:00", "activity": "eye_tracking_test", "score": 70}
+{"timestamp": "2023-07-14 12:35:00", "activity": "Meditation"}
+{"timestamp": "2023-07-14 13:01:00", "activity": "eye_tracking_test", "score": 60}
+{"timestamp": "2023-07-14 15:11:00", "activity": "Bike"}
+{"timestamp": "2023-07-14 15:54:00", "activity": "eye_tracking_test", "score": 40}
+{"timestamp": "2023-07-14 17:23:00", "activity": "Drugs"}
+{"timestamp": "2023-07-14 17:38:00", "activity": "eye_tracking_test", "score": 90}
+{"timestamp": "2023-07-14 19:17:00", "activity": "Drugs"}
+{"timestamp": "2023-07-14 19:38:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-07-14 21:17:00", "activity": "Drugs"}
+{"timestamp": "2023-07-14 21:22:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-07-14 23:14:00", "activity": "Exam"}
+{"timestamp": "2023-07-14 23:54:00", "activity": "eye_tracking_test", "score": 100}
+{"timestamp": "2023-07-15 02:01:00", "activity": "Meditation"}
+{"timestamp": "2023-07-15 02:34:00", "activity": "eye_tracking_test", "score": 90}
